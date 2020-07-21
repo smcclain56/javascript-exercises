@@ -12,4 +12,16 @@ commit onto my GitHub project. I also the video about how to commit to open sour
 commit onto an open source project.
 2. Tomorrow I hope to complete the section on NPM and NPM scripts.
 3. When committing to the open source project I had my first experience with a conflict while merging and had to go back to one
-of the earlier videos to refresh how to resolve the conflict and add my changes to the master branch. 
+of the earlier videos to refresh how to resolve the conflict and add my changes to the master branch.
+
+
+7/21
+1. Today I completed the section of the Udemy course on NPM and NPM scripts. I learned what NPM is, how to set it up and how to
+install and use packages. I also learned more about the package.json file and what some of the keys mean; such as scripts,
+dependencies and deep dependencies. I also understand the importance of updating packages because of security threats and how
+to view those threats on GitHub.
+2. Tomorrow I will be beginning the section on React.
+3. I feel like a lot of the questions I had about NPM make much more sense after the lectures today. However, some of the new
+stuff is still confusing to me and I am unsure how I will do when I am working on my own. For example, I feel like I understand
+the newest way of importing files (WebPack + ES6) but I was confused in the video today when he had to use browserify instead
+because I am less familiar with that method. 
