@@ -1,0 +1,15 @@
+DAILY LOG
+This file will include my daily scrum report as I go through parts of this course with less exercises,
+such as the section practicing GitHub techniques and learning about NPM scripts. I will answer the following
+three questions each day:
+1. What did you do today?
+2. What will you do tomorrow?
+3. Any complications?
+
+7/20
+1. Today I started this daily log to practice using the command line to add a new branch and make a
+commit onto my GitHub project. I also the video about how to commit to open source projects on GitHub and made my first
+commit onto an open source project.
+2. Tomorrow I hope to complete the section on NPM and NPM scripts.
+3. When committing to the open source project I had my first experience with a conflict while merging and had to go back to one
+of the earlier videos to refresh how to resolve the conflict and add my changes to the master branch. 
