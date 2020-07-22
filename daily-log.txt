@@ -24,4 +24,13 @@ to view those threats on GitHub.
 3. I feel like a lot of the questions I had about NPM make much more sense after the lectures today. However, some of the new
 stuff is still confusing to me and I am unsure how I will do when I am working on my own. For example, I feel like I understand
 the newest way of importing files (WebPack + ES6) but I was confused in the video today when he had to use browserify instead
-because I am less familiar with that method. 
+because I am less familiar with that method.
+
+7/22
+1. Today I created my first React project using the create-react-app NPM package. I also started turning this project into the
+"Robofriends" project this course is having us make. I learned the basics of JSX and how to use classes or functions to render
+React components on the webpage. I also created my git repo for this project and uploaded my files.
+2. Tomorrow I hope to complete the second part of "Building a React App" section of the course which will include the next steps
+of building "Robofriends"
+3. I didn't have any complications today, I feel like I do understand the basic of React at the moment. However, I am having trouble
+recalling some of the css I will need to style my React pages so I want to refresh that as well
