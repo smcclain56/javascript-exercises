@@ -34,3 +34,10 @@ React components on the webpage. I also created my git repo for this project and
 of building "Robofriends"
 3. I didn't have any complications today, I feel like I do understand the basic of React at the moment. However, I am having trouble
 recalling some of the css I will need to style my React pages so I want to refresh that as well
+
+7/23
+1. Today I kept working on my React project. I created a CardList object to hold each of my Card components and started adding the
+search bar feature
+2. Tomorrow I hope to finish up working on the search bar so that as you search, only the robots with the right names will render on the
+page
+3. The state change part of the search bar was confusing to me but I am still working to understand it better
