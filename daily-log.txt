@@ -47,3 +47,9 @@ the application.
 2. Tomorrow I hope to complete part 4 of the "create your first react project sequence" of the course and look through my code to
 make sure I understand everything that has been done
 3. None
+
+7/25
+1. Today I finished up the tutorial for my first react project by adding a scroll function, cleaning up the code, and separating the
+files into different directories to make it easier to navigate through the code
+2. Tomorrow I hope to fix a few CSS issues I've been having
+3. The robot cards have been getting bigger when the name is longer and I can't get it so that each card stays as it's set size
