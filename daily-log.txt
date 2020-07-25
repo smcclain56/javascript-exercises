@@ -39,6 +39,11 @@ recalling some of the css I will need to style my React pages so I want to refre
 1. Today I kept working on my React project. I created some smaller components and set up the App to use those components to make a
 responsive search bar that filters the robots according to what the user searches. I also started working on some of the styling of
 the application.
+2. None
+3. Some of the search bar code along with some of the react syntax was confusing to me in the lesson today
+
+7/24
+1. None
 2. Tomorrow I hope to complete part 4 of the "create your first react project sequence" of the course and look through my code to
 make sure I understand everything that has been done
-3. Some of the search bar code along with some of the react syntax was confusing to me in the lesson today
+3. None
