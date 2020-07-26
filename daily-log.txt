@@ -53,3 +53,10 @@ make sure I understand everything that has been done
 files into different directories to make it easier to navigate through the code
 2. Tomorrow I hope to fix a few CSS issues I've been having
 3. The robot cards have been getting bigger when the name is longer and I can't get it so that each card stays as it's set size
+
+
+7/26
+1. Today I added the last few features to my React project and began the section on HTTP/JSON/AJAX/Asynchronous JavaScript. I learned
+how HTTP requests work, why JSON and AJAX are so useful and what a "Promise" is and how to use them
+2. Tomorrow I hope to complete the sections on Asynchronous Await and ES9 and hopefully start the section on the backend
+3. I am still getting used the syntax of Promises and find them difficult to understand 
