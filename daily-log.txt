@@ -59,4 +59,10 @@ files into different directories to make it easier to navigate through the code
 1. Today I added the last few features to my React project and began the section on HTTP/JSON/AJAX/Asynchronous JavaScript. I learned
 how HTTP requests work, why JSON and AJAX are so useful and what a "Promise" is and how to use them
 2. Tomorrow I hope to complete the sections on Asynchronous Await and ES9 and hopefully start the section on the backend
-3. I am still getting used the syntax of Promises and find them difficult to understand 
+3. I am still getting used the syntax of Promises and find them difficult to understand
+
+7/27
+1. Today I finished the section on HTTP/JSON/AJAX/Asynchronous JavaScript by learning how to use async await functions. I also completed
+a short section which was an introduction to the back-end and API's
+2. Tomorrow I want to complete the API exercises
+3. No complications
