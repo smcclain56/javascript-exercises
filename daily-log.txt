@@ -72,3 +72,9 @@ a short section which was an introduction to the back-end and API's
 over my Robofriends project and making sure I still understood the code
 2. Tomorrow I want to complete the API exercise
 3. No complications
+
+7/29
+1. Today I practiced using async await functions and fetch in the API exercise by using a free Pokemon API
+2. Tomorrow I hope to start the front-end of the final project in the course
+3. I couldn't get my async function to return the data in the form of an object instead of returning just the promise even though I was
+using the .json() function
