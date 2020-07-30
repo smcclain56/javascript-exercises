@@ -78,3 +78,9 @@ over my Robofriends project and making sure I still understood the code
 2. Tomorrow I hope to start the front-end of the final project in the course
 3. I couldn't get my async function to return the data in the form of an object instead of returning just the promise even though I was
 using the .json() function
+
+7/30
+1. Today I started the front-end of the final project and created a react project that renders the image the user supplies and is
+connected to the facial recognition API I am using
+2. Tomorrow I want to finish the front-end of the project and make the box around the faces and handle the sign in features
+3. The css looks different on my page than the example -- everything looks larger or maybe more zoomed in?
