@@ -84,3 +84,9 @@ using the .json() function
 connected to the facial recognition API I am using
 2. Tomorrow I want to finish the front-end of the project and make the box around the faces and handle the sign in features
 3. The css looks different on my page than the example -- everything looks larger or maybe more zoomed in?
+
+7/31
+1. Today I finished up the facial recognition part of the app and made the box that appears around the face when you enter an image and
+creating the routing for sign in and register forms
+2. Tomorrow I hope to complete the section on Node.js
+3. None
