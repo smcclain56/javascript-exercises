@@ -90,3 +90,13 @@ connected to the facial recognition API I am using
 creating the routing for sign in and register forms
 2. Tomorrow I hope to complete the section on Node.js
 3. None
+
+8/1
+1. None
+2. Tomorrow I hope to complete the section on Node.js
+3. None
+
+8/2
+1. Today I finished the part of the course Node.js and completed some exercises on how to run node and  how to set up a local server
+2. Tomorrow I want to start the section on Express.js
+3. None
