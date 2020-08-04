@@ -100,3 +100,8 @@ creating the routing for sign in and register forms
 1. Today I finished the part of the course Node.js and completed some exercises on how to run node and  how to set up a local server
 2. Tomorrow I want to start the section on Express.js
 3. None
+
+8/3
+1. None
+2. Tomorrow I want to start the section on Express.js
+3. None
