@@ -110,3 +110,8 @@ creating the routing for sign in and register forms
 1. Today I started the section on Express.js
 2. Tomorrow I hope to start the final exercise of Express
 3. Express.js is still confusing to me and I don't feel very comfortable with it
+
+8/5
+1. None
+2. Tomorrow I hope to start the final exercise of Express
+3. None
