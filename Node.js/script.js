@@ -1,30 +1,48 @@
-//some basic node practice
-// setTimeout( () => {
-//   console.log(a+b);
-// }, 3000)
-//
-// console.log(__dirname);
+const express = require('express');
+
+const app = express();
 
 
-//node versions 12 and up can you import statements
-const script2 = require('./script2.js');
+// app.get('/', (req,res) => {
+//   const user = {
+//     name: 'Sally',
+//     hobby: 'soccer'
+//   }
+//   res.send(user);
+// })
+//there is also app.get, app.delete, app.post, app.put
 
-const a = script2.largeNumber;
-const b = 5;
+//go to localhost:3000/profile to see this
+// app.get('/profile', (req,res) => {
+//   res.send("getting profile");
+// })
 
-console.log(a+b);
+//MIDDLEWARE VIDEO
+//recieves request before routes, modifies it and passes it along to keep it going
+app.use((req, res, next) => {
+  console.log('<h1>Hello</h1>');
+  next(); //won't move on unless you have a next() call
+})
+
+app.get('/', (req,res) => {
+  res.send('test');
+})
 
 
-//popular built-in modules
-// const c = require('fs'); //filesystem
-// const d = require('http'); //build a server
+//POST REQUESTS
+// look up POSTMAN -- API recommendation for development
+  //used to test server before connecting to front end
+app.use(express.urlencoded({extended: false})); //included in express 4.16 and higher
+app.use(express.json());
 
-//const file = c.readFile; //output contents of file
 
+app.post('/profile', (req, res) => {
+  console.log(req.body); //need middleware to access body
+  const user = {
+    name: 'Sally',
+    hobby: 'soccer'
+  }
+  res.send(user);
+});
 
-/*
-package nodemon good for developing--> install using npm -- remember to do npm init to create package.json file
-nodemon allows us to keep watching for changes and updating terminal
-when you change a file
-* Add "start": "nodemon server.js" to package.json to make it listen to that server
-*/
+app.listen(3000);
