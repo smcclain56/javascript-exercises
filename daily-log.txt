@@ -115,3 +115,8 @@ creating the routing for sign in and register forms
 1. None
 2. Tomorrow I hope to start the final exercise of Express
 3. None
+
+8/6
+1. I have a written screening for an interview today that I had to complete
+2. Tomorrow I hope to start the final exercise of Express
+3. None
