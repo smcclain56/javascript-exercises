@@ -122,7 +122,17 @@ creating the routing for sign in and register forms
 3. None
 
 8/7
+1. None
+2. Tomorow I want to complete the Santas Helper exercise
+3. None
+
+8/8
 1. Today I finished off the Express section by completing the final exercise called
 Santas Helper. I also started building the server and routes for my facial-recognition app
 2. Tomorrow I probably won't do anything because it's my birthday
-3. None -- still getting used to express and routing though 
+3. None -- still getting used to express and routing though
+
+8/9
+1. None since it's my birthday
+2. Finish building my routes using Postman
+3. None
