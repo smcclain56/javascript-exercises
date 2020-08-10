@@ -136,3 +136,8 @@ Santas Helper. I also started building the server and routes for my facial-recog
 1. None since it's my birthday
 2. Finish building my routes using Postman
 3. None
+
+8/10
+1. Finished routing on my smart-brain-api server and started connecting it to front-end
+2. Finish connecting server to front-end for registering users, start database section
+3. None
