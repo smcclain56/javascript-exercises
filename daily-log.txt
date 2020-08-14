@@ -148,3 +148,22 @@ database section of the course which was mostly a review because I know SQL from
 2. Complete the database section of the course
 3. I have a bad request on my web app and I don't know if it coming from my server or
 the Clarifai AP server
+
+8/12
+1. Today I completed the database section of the course which was a review on joining
+tables
+2. Tomorrow I want to prepare for my interview
+3. Postman was not working
+
+
+8/13
+1.  None, I had an interview to prepare for today
+2. Tomorrow I want to create the database for my smart-brain-API and had to dubug the
+request error I was getting
+3. None
+
+8/14
+1. Today I updated my server to use the database instead of the array I was using as
+a placeholder which means I have finished the project!
+2. Tomorrow I hope to do a final code review and deploy it to heroku
+3. Postman was not working for me so I started using Postwoman
