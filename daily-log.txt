@@ -167,3 +167,19 @@ request error I was getting
 a placeholder which means I have finished the project!
 2. Tomorrow I hope to do a final code review and deploy it to heroku
 3. Postman was not working for me so I started using Postwoman
+
+8/15
+1. Today I did a final code review and added some additional security and form
+checking on the front and back end
+2. Tomorrow I don't have anything planned to do -- probably take a day off
+3. None
+
+8/16
+1. None
+2. Deploy my new app!
+3. None
+
+8/17
+1. Deployed my new application on heroku and finished up my portfolio website with that project
+2. Apply to some jobs
+3. None
