@@ -183,3 +183,9 @@ checking on the front and back end
 1. Deployed my new application on heroku and finished up my portfolio website with that project
 2. Apply to some jobs
 3. None
+
+8/18
+1. Started a new react from building an e-commerce site from another udemy course and got to
+section 5 of the course
+2. start section 6 of the course
+3. The routing using react-doms-router is still very new to me and took some debugging
