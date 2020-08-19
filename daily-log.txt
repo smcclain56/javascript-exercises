@@ -189,3 +189,9 @@ checking on the front and back end
 section 5 of the course
 2. start section 6 of the course
 3. The routing using react-doms-router is still very new to me and took some debugging
+
+8/19
+1. Today I finished section 6 of the course on Forms and Components and creates a custom form input
+and button for my sign in and sign up page
+2. Tomorow I want to get an introduction to Firebase and read the docs
+3. None
