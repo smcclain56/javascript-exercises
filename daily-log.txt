@@ -193,5 +193,16 @@ section 5 of the course
 8/19
 1. Today I finished section 6 of the course on Forms and Components and creates a custom form input
 and button for my sign in and sign up page
-2. Tomorow I want to get an introduction to Firebase and read the docs
+2. Tomorrow I want to get an introduction to Firebase and read the docs
 3. None
+
+8/20
+1. Completed the firebase setup in the project
+2. Set up redux in the project
+3. some of the authentication pieces of firebase are still very new to me
+
+8/21
+1. I added redux to my project today and set up the cart and selectors in redux
+2. Tomorrow I hope to finish the section on redux and maybe start the section on
+session storage and persistence
+3. I don't really understand some of the configuration of redux for the project
