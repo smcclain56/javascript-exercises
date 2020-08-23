@@ -206,3 +206,9 @@ and button for my sign in and sign up page
 2. Tomorrow I hope to finish the section on redux and maybe start the section on
 session storage and persistence
 3. I don't really understand some of the configuration of redux for the project
+
+8/22
+1. Today I finished the first redux section and set up the checkout page using
+redux and selectors using reselect
+2. Tomorrow I hope to start the section on session storage and persistence
+3. Still grasping the ideas of redux
