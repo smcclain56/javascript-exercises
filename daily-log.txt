@@ -212,3 +212,13 @@ session storage and persistence
 redux and selectors using reselect
 2. Tomorrow I hope to start the section on session storage and persistence
 3. Still grasping the ideas of redux
+
+8/23
+1. None
+2. Prepare for my interview on Tuesday
+3. None
+
+8/24
+1. Today I prepared for my interview tomorrow
+2. Start the section on session storage and persistence
+3. None
