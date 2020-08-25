@@ -222,3 +222,9 @@ redux and selectors using reselect
 1. Today I prepared for my interview tomorrow
 2. Start the section on session storage and persistence
 3. None
+
+8/25
+1. Today I completed the section on session storage and persistence and implemented
+session storage into my application using redux-persist
+2. Tomorrow I hope to start the next section of the project, called Redux 2
+3. None
