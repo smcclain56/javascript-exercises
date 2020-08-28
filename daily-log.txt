@@ -236,3 +236,13 @@ and added that to redux as well.
 2. Tomorrow I want to start the section on advanced routing and make nested routing
 in the shop page
 3. None -- I feel like the redux syntax is becoming much more familiar to me
+
+8/27
+1. None
+2. None
+3. None
+
+8/28
+1. None
+2. Complete section on advanced routing and make nested routing in the shop page
+3. None
