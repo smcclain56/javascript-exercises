@@ -246,3 +246,8 @@ in the shop page
 1. None
 2. Complete section on advanced routing and make nested routing in the shop page
 3. None
+
+8/29
+1. None
+2. Complete section on advanced routing and make nested routing in the shop page
+3. None
