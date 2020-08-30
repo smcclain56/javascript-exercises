@@ -248,6 +248,6 @@ in the shop page
 3. None
 
 8/29
-1. None
-2. Complete section on advanced routing and make nested routing in the shop page
-3. None
+1. Complete section on advanced routing and make nested routing in the shop page
+2. Complete next section on state normalization
+3. I'm still a bit lost when it comes to selectors and memoization in react
