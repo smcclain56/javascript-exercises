@@ -256,3 +256,9 @@ in the shop page
 1. Complete section on state normalization
 2. Complete next section on stripe payments
 3. Had trouble getting the persisted state to change based on the new shop data
+
+8/31
+1. Completed section on stripe payments for front end and deployed application to
+heroku
+2. Complete next section on CSS in JS styled components
+3. None
