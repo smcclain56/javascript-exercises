@@ -230,7 +230,7 @@ session storage into my application using redux-persist
 3. None
 
 8/26
-1. Today I completed the section calld Redux 2 and added my directory state and
+1. Today I completed the section called Redux 2 and added my directory state and
 collection state into redux. I also created a new collection-overview component
 and added that to redux as well.
 2. Tomorrow I want to start the section on advanced routing and make nested routing
@@ -251,3 +251,8 @@ in the shop page
 1. Complete section on advanced routing and make nested routing in the shop page
 2. Complete next section on state normalization
 3. I'm still a bit lost when it comes to selectors and memoization in react
+
+8/30
+1. Complete section on state normalization
+2. Complete next section on stripe payments
+3. Had trouble getting the persisted state to change based on the new shop data
