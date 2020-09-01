@@ -262,3 +262,9 @@ in the shop page
 heroku
 2. Complete next section on CSS in JS styled components
 3. None
+
+9/1
+1. Practiced and reviewed dynamic programming and other practice problems for my interview
+next week
+2. More interview practice -- go over divide and conquer
+3. Permutation recursive solutions confuse me
