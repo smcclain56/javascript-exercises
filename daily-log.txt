@@ -4,7 +4,7 @@ such as the section practicing GitHub techniques and learning about NPM scripts.
 three questions each day:
 1. What did you do today?
 2. What will you do tomorrow?
-3. Any complications?
+3. Any impediments?
 
 7/20
 1. Today I started this daily log to practice using the command line to add a new branch and make a
@@ -268,3 +268,8 @@ heroku
 next week
 2. More interview practice -- go over divide and conquer
 3. Permutation recursive solutions confuse me
+
+9/2
+1. Practice recursion and sorting problems for my interview next week
+2. More interview practice  -- want to review some more data structures
+3. Having trouble with the amount of things I want to cover
