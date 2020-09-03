@@ -273,3 +273,9 @@ next week
 1. Practice recursion and sorting problems for my interview next week
 2. More interview practice  -- want to review some more data structures
 3. Having trouble with the amount of things I want to cover
+
+9/3
+1. Practiced some divide and conquer algorithms and string manipulation for my
+interviews next week
+2. Want to go over binary trees and graphs
+3. Stressed about what they could potentially ask me in these interviews
