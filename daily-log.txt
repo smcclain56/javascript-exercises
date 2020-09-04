@@ -279,3 +279,8 @@ next week
 interviews next week
 2. Want to go over binary trees and graphs
 3. Stressed about what they could potentially ask me in these interviews
+
+9/4
+1. Practiced DFS, BFS and creating a graph structure
+2. Want to review heaps and binary trees
+3. There's just so many things I feel like I have to know
