@@ -284,3 +284,8 @@ interviews next week
 1. Practiced DFS, BFS and creating a graph structure
 2. Want to review heaps and binary trees
 3. There's just so many things I feel like I have to know
+
+9/5
+1. None
+2. Want to review heaps and binary trees
+3. None
