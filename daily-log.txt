@@ -290,7 +290,23 @@ interviews next week
 2. Want to review heaps and binary trees
 3. None
 
-9/6
+9/6 
+1. Interview Practice
+2. More interview practice
+3. None
+
+9/7
+1. None -- off day!
+2. Last day of practice before my technical interview
+3. None
+
+9/8
 1. Technical interview practice
 2. Interview tomorrow!
 3. None
+
+9/9
+1. Had my first technical interview today
+2. Another interview tomorrow that I want to be ready for
+3. None
+
