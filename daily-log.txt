@@ -290,7 +290,7 @@ interviews next week
 2. Want to review heaps and binary trees
 3. None
 
-9/6 
+9/6
 1. Interview Practice
 2. More interview practice
 3. None
@@ -310,3 +310,9 @@ interviews next week
 2. Another interview tomorrow that I want to be ready for
 3. None
 
+9/10
+1. Had my second interview today!
+2. Want to prepare for my third interview next week by going over some of the
+scripts I've written in the past
+3. Had trouble with one of the technical interview questions about sorting
+in place today
