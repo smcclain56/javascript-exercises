@@ -332,3 +332,14 @@ be like
 1. Preparing for interviews
 2. Interview tomorrow
 3. None
+
+9/16
+1. Interview Today
+2. Interview tomorrow
+3. None
+
+9/17
+1. Had my last scheduled interview today
+2. Now that I don't have any more interviews to prepare for, I can go back to
+building my e-commerce web application
+3. None 
