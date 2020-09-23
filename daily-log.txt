@@ -358,3 +358,8 @@ building my e-commerce web application
 1. None -- weekend
 2. Start next section of web application
 3. None
+
+9/21
+1. None
+2. Get back to React project
+3. None
